@@ -1,2 +1,0 @@
-# Net
-NEt deneme
